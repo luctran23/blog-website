@@ -32,14 +32,14 @@ const Home = ({ posts }: Props) => {
           type: "article",
           images: [
             {
-              url: `${process.env.NEXT_PUBLIC_PRODUCTION_ROOT_URL}/static/profile.png`,
+              url: `${process.env.NEXT_PUBLIC_PRODUCTION_ROOT_URL}/static/logo2.png`,
               width: 800,
               height: 600,
               alt: "Profile Image",
               type: "image/png",
             },
             {
-              url: `${process.env.NEXT_PUBLIC_PRODUCTION_ROOT_URL}/static/profile.png`,
+              url: `${process.env.NEXT_PUBLIC_PRODUCTION_ROOT_URL}/static/logo2.png`,
               width: 900,
               height: 800,
               alt: "Profile Image",

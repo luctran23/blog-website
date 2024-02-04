@@ -18,14 +18,14 @@ function Header() {
           <div className="flex gap-2 align-center text-center">
             <Image
               loader={customLoader}
-              src={`${prefix}/static/logo.png`}
+              src={`${prefix}/static/logo2.png`}
               alt="Profile Image"
               height="30"
               width="30"
               className="cursor-pointer"
             />
-            <span className="ml-3 text-lg xl:text-2xl md:text-xxl hidden md:block cursor-pointer dark:text-white">
-              {process.env.NEXT_PUBLIC_OWNER_NAME}
+            <span className="ml-3 text-lg xl:text-2xl md:text-xxl hidden md:block cursor-pointer dark:text-white font-bold">
+              {process.env.NEXT_PUBLIC_OWNER_NAME} - Hi there.
             </span>
           </div>
         </Link>

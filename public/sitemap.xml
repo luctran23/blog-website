@@ -2,13 +2,61 @@
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
     <loc>/</loc>
-    <lastmod>2022-05-28T20:10:56.651Z</lastmod>
+    <lastmod>2024-02-04T16:48:43.473Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
-    <loc>/blog/sample-blog</loc>
-    <lastmod>2022-05-28T20:10:56.651Z</lastmod>
+    <loc>/blog/contextapi-vs-redux</loc>
+    <lastmod>2024-02-04T16:48:43.473Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/cross-site-scripting</loc>
+    <lastmod>2024-02-04T16:48:43.473Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/generic-types</loc>
+    <lastmod>2024-02-04T16:48:43.473Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/good-relationship</loc>
+    <lastmod>2024-02-04T16:48:43.473Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/hanam-discovery</loc>
+    <lastmod>2024-02-04T16:48:43.473Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/js-sync-or-async</loc>
+    <lastmod>2024-02-04T16:48:43.473Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/sql-injection</loc>
+    <lastmod>2024-02-04T16:48:43.473Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/useEffect-vs-useLayoutEffect</loc>
+    <lastmod>2024-02-04T16:48:43.473Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/why-nextjs</loc>
+    <lastmod>2024-02-04T16:48:43.473Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
