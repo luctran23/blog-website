@@ -26,6 +26,10 @@ dự án tôi khá thích. Những anh em đồng nghiệp trong team đều là
 <img src="images/cmc-journey/fuch.jpg" width="500">
 *Một thành viên bỏ nhóm sớm có chút ý kiến*
 
+<video width="400" height="250" controls>
+  <source src="images/cmc-journey/trada.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 ## Chốt hạ
 Những cảm xúc lẫn lộn khi rời xa nơi này. Đây là một nơi mà tôi có nhiều kỉ niệm khó có thể quên. Hi vọng ở môi trường mới, tôi có thể nhanh chóng hòa nhập và phát triển hơn.
 
