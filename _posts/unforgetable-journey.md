@@ -2,7 +2,7 @@
 title: "An unforgetable jouney - Một chặng đường không thể quên"
 description: "Sau một thời gian dài rất là ngắn, tôi đã đưa ra quyết định rời xa nơi này. Bao nhiêu kỉ niệm của tôi ở đây. Thật tiếc nhưng tôi biết phải làm sao đây."
 banner: "/images/cmc-journey/journey.png"
-tags: ["Life"]
+tags: ["Life", "Love"]
 date: 1 Jun 2024
 ---
 

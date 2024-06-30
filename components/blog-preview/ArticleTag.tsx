@@ -20,8 +20,17 @@ const textsStyles: any = {
   ExpressJS: `${tagBaseStyle}  bg-lime-100  text-lime-600`,
   Relationship: `${tagBaseStyle}  bg-lime-200  text-lime-600`,
   Life: `${tagBaseStyle}  bg-green-200  text-green-600`,
+  Love: `${tagBaseStyle}  bg-pink-200  text-pink-600`,
   Security: `${tagBaseStyle}  bg-green-200  text-green-600`,
+  Tech: `${tagBaseStyle}  bg-red-200  text-red-600`,
+  Websquare: `${tagBaseStyle}  bg-gray-200  text-gray-600`,
 };
 export default function ArticleTag({ title }: ArticleTagProps) {
   return <div className={textsStyles[`${title}`]}>{title}</div>;
 }
+
+
+
+
+
+
