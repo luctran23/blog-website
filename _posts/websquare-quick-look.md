@@ -12,6 +12,7 @@ WebSquare5 consists of the Engine and the WebSquare5 Studio (development tool).
 The Engine receives requests from the browser and displays the WebSquare5 XML files on the browser in an HTML-compatible manner. The developer can create web UI on the WebSquare5 Studio.
 ![Websquare UI](/images/websquare-quick-look/interface.jpg)
 *after the software installed*
+
 Especially, if you know Korean, it will be so much easier than you don't. This software was originally from Korean.
 Well, you know Korean. You're the King! lol 🤣.
 
