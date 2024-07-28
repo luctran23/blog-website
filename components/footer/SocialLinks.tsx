@@ -20,16 +20,16 @@ const SocialLinks = () => {
         onClick={() => window.open(process.env.NEXT_PUBLIC_GITHUB_PROFILE_URL, "_blank")}
         className={styleClassName}
       />
-      <FaMedium
+      {/* <FaMedium
         size={ICON_SIZE}
         onClick={() => window.open(process.env.NEXT_PUBLIC_MEDIUM_PROFILE_URL, "_blank")}
         className={styleClassName}
-      />
-      <FaStackOverflow
+      /> */}
+      {/* <FaStackOverflow
         size={ICON_SIZE}
         onClick={() => window.open(process.env.NEXT_PUBLIC_STACKOVERFLOW_PROFILE_URL, "_blank")}
         className={styleClassName}
-      />
+      /> */}
     </div>
   );
 };
