@@ -2,97 +2,103 @@
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
     <loc>/</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/contextapi-vs-redux</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/cross-site-scripting</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/english-dayone</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.769Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/english-daytwo</loc>
+    <lastmod>2024-08-01T23:43:19.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/generic-types</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/good-relationship</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/hanam-discovery</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/js-sync-or-async</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/learn-english-from-0</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.769Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/mood-of-June</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.770Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/sql-injection</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.770Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/unexpected-lession</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.770Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/unforgetable-journey</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.770Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/useEffect-vs-useLayoutEffect</loc>
-    <lastmod>2024-07-31T14:07:11.957Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.770Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/websquare-quick-look</loc>
-    <lastmod>2024-07-31T14:07:11.958Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.770Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/why-nextjs</loc>
-    <lastmod>2024-07-31T14:07:11.958Z</lastmod>
+    <lastmod>2024-08-01T23:43:19.770Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
