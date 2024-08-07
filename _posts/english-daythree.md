@@ -3,7 +3,7 @@ title: "English day three - Attractiveness (Part 1)"
 description: "The topic today is about attractiveness."
 banner: "/images/daythree/thumbnail.jpg"
 tags: ["Life", "English"]
-date: 1 Aug 2024
+date: 2 Aug 2024
 ---
 
 # Topic of the day, attractiveness.
