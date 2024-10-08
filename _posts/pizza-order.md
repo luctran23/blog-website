@@ -9,7 +9,7 @@ date: 6 Oct 2024
 
 # How to order pizza on the phone in English
 _Pizza worker 👳‍♂️: 
-Thanks for calling Blue Moutain (name of a pizzeria). This is Nick. How may I help you?
+Thanks for calling Blue Moutain (name of a pizza parlor). This is Nick. How may I help you?
 
 _You: Hi, yes, I'd like to call in a pizza for delivery.
 
@@ -56,6 +56,26 @@ _Pizza worker 👳‍♂️: Two ounces or four ounces?
 
 _You: Ahh, let's go with four.
 
+_Pizza worker 👳‍♂️: Alright, anything else for you?
 
+_You: Nope, that's all.
+
+_Pizza worker 👳‍♂️: All right. With taxes and all, that's going to be $32.02.
+and we're looking about 25 to 30 minutes right now.
+
+_You: Should I pay over the phone or should I pay when they get here?
+
+_Pizza worker 👳‍♂️: Just whenever the delivery guy gets there, and it's either cash or check,
+No cards or anything like that.
+
+_You: Oh, interesting. Okay. All right, that's no problem.
+
+_Pizza worker 👳‍♂️: Alright, thank you so much.
+
+_You: Okay, thank you.
+
+_Pizza worker 👳‍♂️: Bye
+
+_You: Bye
 ## Explaination
 (1) I got you in there now. It means the information is sucessfully added in the system.
