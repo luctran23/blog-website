@@ -21,7 +21,10 @@ Tofu with tomato sauce, some boiled green beans, and two poached eggs (I forget 
 I also made a short video about it. Nothing fancy, just a little glimpse into what I eat.
 Please enjoy! 🎥🍴
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7GfyYN6bbEg" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://www.youtube.com/embed/7GfyYN6bbEg" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
 
 See you in the next blog post.
 Bye.....
