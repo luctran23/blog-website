@@ -25,6 +25,7 @@ const textsStyles: any = {
   Tech: `${tagBaseStyle}  bg-red-200  text-red-600`,
   Websquare: `${tagBaseStyle}  bg-gray-200  text-gray-600`,
   English: `${tagBaseStyle}  bg-orange-200  text-orange-600`,
+  Cooking: `${tagBaseStyle}  bg-yellow-200  text-yellow-600`,
 };
 export default function ArticleTag({ title }: ArticleTagProps) {
   return <div className={textsStyles[`${title}`]}>{title}</div>;
