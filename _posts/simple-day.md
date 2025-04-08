@@ -1,5 +1,5 @@
 ---
-title: "Simple meal ^.^"
+title: "A day in my life ^.^"
 description: "A quite emotional day!"
 banner: "/images/simple-day/blogThumbnail.png"
 tags: ["Life", "Cooking", "English"]
