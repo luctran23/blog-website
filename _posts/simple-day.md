@@ -10,19 +10,23 @@ date: 8 April 2025
 
 ## Introduction
 
-Today, I went to work at 8:00am. I did a long breath in lots of smoke from vehicles.
-I was so high after that. 🤣
+Today, I went to work at 8:00 AM.
+Took a deep breath… full of vehicle smoke.
+Felt weirdly high after that. 🤣
 
-I was back to a street where my former workplace located.
+I passed by the street where my old workplace is located.
 <img src="/images/simple-day/IMG_6250.jpg" width="500">
-*There's many tech company here*
+So many tech companies around here.
 
-I went through a intersection and see the highest building of this city.
+Then I walked through an intersection and saw the tallest building in the city.
 <img src="/images/simple-day/IMG_6251.jpg" width="500">
-*why is it so high like that?*
+Why is it that tall though?
 
-I went home and decide to cook dinner
-Tofu with tomato sauce, some boiled green beans, and two poached eggs (I forget to put that in the video😭). That’s it!
+I came home and decided to cook dinner.
+Just two dishes today: chả lá lốt and boiled spinach.
+Simple, but I ended up eating four bowls of rice. 😅
+
+That’s it!
 
 I also made a short video about it. Nothing fancy, just a little glimpse into what I eat.
 Please enjoy! 🎥🍴
