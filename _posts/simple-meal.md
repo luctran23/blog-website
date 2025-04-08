@@ -1,6 +1,6 @@
 ---
 title: "Simple meal ^.^"
-description: "The topic today is about attractiveness."
+description: "Be crazy with cooking. :))"
 banner: "/images/simple-meal/tofu3thumbnail.jpeg"
 tags: ["Life", "Cooking", "English"]
 date: 5 April 2025
