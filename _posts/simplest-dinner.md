@@ -16,7 +16,6 @@ In the end, I kept it simple — I boiled some pork and added a few carrots. Not
 
 It reminded me that even the simplest meals can hit the spot when you’re tired. 🤣
 
-I passed by the street where my old workplace is located.
 <img src="/images/simplest-meal/thumbnail.jpg" width="500">
 
 That’s it!
